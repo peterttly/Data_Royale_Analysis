@@ -47,9 +47,6 @@ This repository contains the complete workflow used to analyze millions of Clash
 - **Elixir contour heatmaps** showing card usage vs. elixir patterns  
 - **Business insight modeling** around player psychology and retention  
 
-##  Required 1-Paragraph Competition Summary
-Throughout this week, our team transformed millions of Clash Royale battle logs into a full analytical journey that connected gameplay behavior to business insights. We engineered a multiprocessing pipeline for large-scale data extraction, built card lookup tables from the official card list, analyzed trophy distributions to locate the most engaged player ranges, extracted thousands of decks to identify core 4-card meta combinations, and generated elixir contour maps to reveal synergy patterns. This repository captures our entire workflow from raw data to insights and presents the strongest findings uncovered during the Data Royale competition.
-
 ##  How to Run
 
 ### 1. Install dependencies
