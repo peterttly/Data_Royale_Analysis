@@ -2,8 +2,8 @@
 
 End-to-end analytical study that transforms Clash Royale battle data into player behavior insights, meta strategy trends, and business-oriented findings around retention, progression, and in-game engagement.
 
-## 📁 Repository Structure
-
+##  Repository Structure
+```markdown  
 Data_Royale_Analysis/
 │
 ├── data/                          <-- Raw input files (NOT uploaded to GitHub)
@@ -35,6 +35,8 @@ Data_Royale_Analysis/
 │
 ├── README.md
 └── requirements.txt
+```
+
 
 
 ##  Project Overview
