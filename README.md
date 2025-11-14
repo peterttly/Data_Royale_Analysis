@@ -6,35 +6,15 @@ End-to-end analytical study that transforms Clash Royale battle data into player
 ```markdown  
 Data_Royale_Analysis/
 │
-├── data/                          <-- Raw input files (NOT uploaded to GitHub)
-│   ├── clashroyale_master.parquet
-│   ├── clashroyale.xlsx
-│   ├── CardMasterListSeason18_12082020.csv
 │
-├── notebooks/                     <-- Jupyter notebooks used in analysis
-│   ├── Data_Royale_Final_Python_Analytics.ipynb
-│   ├── trophy_analysis.ipynb
-│   ├── deck_meta_analysis.ipynb
-│   ├── elixir_contour_analysis.ipynb
-│   └── data_cleaning.ipynb
+├── notebooks/
+│   └── Data Royale Final Python Analytics Notebook.ipynb
 │
-├── html_exports/                  <-- Exported HTML versions for judges
+├── html_exports/
 │   └── Data Royale Final Python Analytics.html
 │
-├── scripts/                       <-- Python modules used throughout
-│   ├── multiprocessing_loader.py
-│   ├── deck_core_extractor.py
-│   ├── card_lookup_generator.py
-│   └── visualization_utils.py
-│
-├── visuals/                       <-- Generated charts for the final report
-│   ├── trophy_distribution.png
-│   ├── core_cards_frequency.png
-│   ├── elixir_contour_map.png
-│   
-│
-├── README.md
-└── requirements.txt
+└── README.md
+
 ```
 
 
